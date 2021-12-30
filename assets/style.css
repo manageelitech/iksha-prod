@@ -1892,3 +1892,4 @@ img{
 #service .ser_content p{
 	font-size: 15px;
 }
+#features.section-padding, .about_us.section-padding, .skill.section-padding, .our_service.section-padding, .testimonials_area.section-padding  { padding: 40px 0 }

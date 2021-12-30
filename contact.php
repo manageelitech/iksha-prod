@@ -21,8 +21,8 @@
 								<div class="col-md-3">
 									<div class="single_contact">
 										<i class="ti-headphone color-1"></i> 
-										<p>+91 9966193398<br>
-                                        +91 9966193398
+										<p>+91 6303887199<br>
+                                        
 										</p>
 									</div>							
 								</div>
@@ -70,6 +70,6 @@
 			</div>
 		</section>
         <div class="row">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5217.1030617170845!2d78.36405189357231!3d17.463051344933582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb939259ab2947%3A0x9bf855c277dd3e82!2sBajaj%20Electronics!5e0!3m2!1sen!2sin!4v1622283839463!5m2!1sen!2sin" width="100%" height="402" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.9802335439476!2d78.36617826488785!3d17.460660155283477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93cd37163d8f%3A0x92cc0cbb0aa96074!2sIVY%20LEAF%20HOSPITAL!5e0!3m2!1sen!2sin!4v1640839002980!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
 <?php include('footer.php'); ?>

@@ -41,7 +41,7 @@ based in Hyderabad.</p>
 						<div class="footer_single_sidebar">							
 							<h3 class="wg_title">Address</h3>
 							<p>
-                                <i class="fa fa-phone color-3"></i> <a href="tel:9966193398"> +91 9966193398</a><br>
+                                <i class="fa fa-phone color-3"></i> <a href="tel:6303887199"> +91 6303887199</a><br>
 							    <i class="ti-email color-3"></i> <a href="mailto:info@ikshasupportservices.com">info@ikshasupportservices.com</a><br>
 							    <i class="ti-location-pin color-3"></i> Plot No 3 & 4 Part Sy.no 19,<br> Kothaguda (v), Kondapur 'x, Road,<br> Hyderabad, Telangana - 500084.
                             </p>
