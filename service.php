@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-        <div class="main_banner_area banner_image" style="background: url(assets/service.png)no-repeat;background-size:cover;  background-position: center center;background-attachment:fixed;">
+        <div class="main_banner_area banner_image" style="background: url(assets/service.jpg)no-repeat;background-size:cover;  background-position: center center;background-attachment:fixed;">
 			<div class="container">
 				<div class="bannar_padding text-center" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 					<h2 class="title_blog">Services</h2>
